@@ -2,6 +2,7 @@ from .BaseLayer import BaseLayer
 from .Circle import Circle
 from .CircleMarker import CircleMarker
 from .Colorbar import Colorbar
+from .DashControl import DashControl
 from .DivMarker import DivMarker
 from .EasyButton import EasyButton
 from .EditControl import EditControl
@@ -37,6 +38,7 @@ __all__ = [
     "Circle",
     "CircleMarker",
     "Colorbar",
+    "DashControl",
     "DivMarker",
     "EasyButton",
     "EditControl",
