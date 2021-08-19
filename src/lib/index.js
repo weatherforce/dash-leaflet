@@ -31,6 +31,7 @@ import EasyButton from "./components/EasyButton.react";
 import MeasureControl from "./components/MeasureControl.react";
 import FullscreenControl from "./components/FullscreenControl.react";
 import EditControl from "./components/EditControl.react";
+import DashControl from "./components/DashControl.react";
 import GestureHandling from "./components/GestureHandling.react";
 import _ from './extensions';
 
@@ -67,5 +68,6 @@ export {
     FullscreenControl,
     FeatureGroup,
     EditControl,
+    DashControl,
     GestureHandling
 };
